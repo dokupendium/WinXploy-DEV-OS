@@ -1,7 +1,7 @@
 # WinXploy-DEV-OS
 Cloud Deployment of a Windows 10 Pro Development Environment from Scratch
 
-![WinXploy-DEV-OS Diagramm](path/to/your/image.png)
+<img src="images/A_dark-themed_brutalist-style_illustration_represe_converted.png" alt="WinXploy-DEV-OS Diagramm" width="600">
 
 ## Beschreibung
 WinXploy-DEV-OS ist eine Lösung zur Bereitstellung einer Windows 10 Pro Entwicklungsumgebung in der Cloud von Grund auf. 
